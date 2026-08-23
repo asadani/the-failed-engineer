@@ -92,5 +92,5 @@ verify:
   baseline_stale: "the shipped 23 Jun PDF predates the manuscript; the byline
     still reads asadani.tech, which the source renamed to anujsadani.in"
   min_images: 0
-  expect_pages: 16
+  expect_pages: 18
   page_tolerance: 6
