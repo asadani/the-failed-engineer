@@ -1,0 +1,23 @@
+Notes & Sources.
+
+The twelve engineers are composites, drawn from patterns I have watched across teams and across my own career, not twelve named people. They are failure modes, not personalities, more than one can live in the same engineer at once. Cited findings are public; citation numbers in the text map to the list below, and exact wording varies by source release.
+
+Clayton M. Christensen, The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail (Harvard Business School Press, 1997). The core finding: incumbents fail by doing everything "right", listening to their best customers and investing in proven, sustaining technology. In his disk-drive study, ~92% of sustaining innovations came from incumbents and only ~6% of disruptive ones did. hbs.edu
+
+Erik Dane, "Reconsidering the Trade-off Between Expertise and Flexibility: A Cognitive Entrenchment Perspective," Academy of Management Review 35(4), 2010. Deep expertise builds stable cognitive schemas that aid performance in stable domains but reduce flexibility in changing ones; remedies include operating in dynamic environments or attending to out-of-domain tasks. journals.aom.org
+
+IEEE estimates on the half-life of engineering knowledge (reported c. 1991): under ~5 years for engineers generally and under ~3 for software engineers; the term "half-life of knowledge" was coined by economist Fritz Machlup in 1962. spectrum.ieee.org
+
+Roy Amara, Amara's Law (Institute for the Future, c. 1970s): "We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run." Blockchain is the textbook short-run-overhype case; the long-run half is where the Skeptic's error lives. en.wikipedia.org/wiki/Roy_Amara
+
+Becker et al. (METR), Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity. In a randomized trial, experienced developers expected AI tools to speed them up ~20% and were in fact ~19% slower; the gap between perceived and actual productivity is the "using vs. understanding" point. metr.org
+
+Eric Ries, The Lean Startup (Crown Business, 2011). Build, Measure, Learn, the minimum viable product, validated learning, and pivot-or-persevere, here applied to an individual career rather than a company. theleanstartup.com/principles
+
+Theodore Levitt, "Marketing Myopia," Harvard Business Review, 1960, source of the "people don't want a quarter-inch drill, they want a quarter-inch hole" framing (later popularized by Christensen & Cook, "Marketing Malpractice," HBR 2005). Customers buy outcomes, not mechanisms. en.wikiquote.org/wiki/Theodore_Levitt
+
+Shunryu Suzuki, Zen Mind, Beginner's Mind (Weatherhill, 1970): "In the beginner's mind there are many possibilities, but in the expert's mind there are few." The Japanese term is shoshin. en.wikiquote.org/wiki/Shunryu_Suzuki
+
+Companion context, the organizational version of this same discontinuity, with its own sourcing (MIT Project NANDA's ~95% "no measurable return" figure, BCG's 10, 20, 70 value split, S&P Global's 42% project-abandonment number), is in Three Leaders, One Market.
+
+© 2026 Anuj Sadani. Twelve failure modes of senior technical leadership during a discontinuity. No villains, only people who optimized, with conviction, for a reality that stopped existing.

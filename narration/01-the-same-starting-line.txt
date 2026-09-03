@@ -1,0 +1,9 @@
+The Same Starting Line.
+
+Before they diverge, establish the thing the whole essay depends on: none of them started from weakness or bad faith.
+
+Each of these engineers earned the title. Each had real depth, a real track record, and the trust of people who had watched them be right for a decade. If you had sat across from any of them in 2022 and asked what good engineering looked like, you would have nodded at every answer. That is precisely the problem. The reflex, when someone competent slowly slides into irrelevance, is to find the flaw in them. Sometimes the flaw is there. Often it is not, and the search for it is a way of avoiding a harder truth: that deep expertise is not a fixed asset. It is an asset conditional on the environment staying the kind of place where that expertise pays.
+
+Psychologists have a name for the mechanism. Erik Dane calls it cognitive entrenchment: as you acquire deep expertise, your mental models become larger, more accurate, more interconnected, and more stable. In a steady environment, that stability is the whole point; it is what lets an expert see in two seconds what a novice misses in two hours. In a rapidly changing environment, the same stability becomes a liability, because you grow less likely to question the assumptions underneath your own interpretations. The trait does not invert because the engineer got worse. It inverts because the world changed its mind about what to reward, and the engineer's schemas were optimized for the old answer.
+
+Same models, same access, same talent, same intentions. When a dozen capable people slide the same way, the cause is unlikely to be a dozen independent character flaws. Look at what they were all standing on instead. The thing that moved was the definition of "good engineering," and expertise is exactly the thing that adapts to that move most slowly.

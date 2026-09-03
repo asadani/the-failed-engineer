@@ -1,0 +1,13 @@
+Three Engineers, One Discontinuity.
+
+Read only this and you have the argument. Everything after it is evidence, and none of it is an accusation.
+
+Imagine three principal engineers. All respected. All technically exceptional. All capable of leading a hundred-million-dollar product. They start the AI era from the same line: the same access to the same models, the same intelligence, the same work ethic. Five years later, one is a VP of AI, one is still a principal engineer who feels increasingly irrelevant, and one has quietly left the industry. The difference was not intelligence. It was not effort. It was not experience. It was what each of them chose to optimize for after the rules changed.
+
+This is not a story about success. It is a story about brilliant people who made perfectly reasonable decisions that turned out to be the wrong ones. Nobody here is a villain. Nobody was lazy. Nobody was stupid. They simply optimized for a reality that no longer existed. That is the whole shape of it, and it is worth saying at the start, because the lazy version of this story goes looking for the engineer who didn't keep up, and there is no such person in it.
+
+The AI era did not just introduce a new technology. It changed what good engineering means. For twenty years, the trait that made you a principal engineer was the trait that made you successful, correctness, depth, judgment, the ability to hold an enormous system in your head. Then the market quietly stopped paying for that as the bottleneck, and many exceptional engineers kept doing exactly the thing that had always worked. That is the trap, and it is older than AI: Clayton Christensen built a whole theory on companies that did everything right, listened to their best customers, invested in proven technology, and failed anyway. What follows is that theory applied to people instead of firms.
+
+Several brilliant principal engineers made rational decisions based on the world they knew. Then the world changed faster than their optimization function. Nobody is the villain. Nobody was lazy. They were simply playing yesterday's game beautifully while the rules were being rewritten underneath them. The thesis, held at about 80 percent
+
+What follows are twelve of them. Not twelve types of person, twelve failure modes, any of which can show up in the same career, sometimes in the same week. I have braided them into three movements: those who kept doing what worked, those who misjudged the wave, and those who lost the human game. Then the one who probably makes it. Read each case fairly, because in a different draw, any of them could have been the VP of AI.

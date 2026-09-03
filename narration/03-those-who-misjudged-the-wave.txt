@@ -1,0 +1,19 @@
+Those Who Misjudged the Wave.
+
+The next four got their relationship to the new thing wrong, too late, too shallow, too much, too scattered. Each posture was defensible. Each was a different way of not actually building anything that compounded.
+
+"I'll adopt AI after the hype dies." Completely reasonable, and earned. He had survived blockchain, Web3, and NFTs by being the adult in the room who waited for the substance to show up, and was vindicated every time. He was, in effect, applying Amara's Law by hand: we overestimate a technology in the short run and underestimate it in the long run, so wait out the overestimate. The trouble is that Amara's Law has two halves, and the Skeptic only priced the first. This one actually changed software. By the time the hype "died" into ordinary daily use, the people who had been clumsily building with it for two years had a two-year head start in judgment that he could not buy back. Waiting had been wisdom four times. The fifth time, waiting was just losing slowly.
+
+Engineer 05The Power User
+
+He uses ChatGPT every day. He lives in Copilot. He writes good prompts and feels, reasonably, ahead of his peers. But he never crossed from using to understanding, never learned evaluation, retrieval, agent design, model behavior, fine-tuning, the actual engineering of AI products. And the gap between feeling productive and being productive turns out to be measurable: in a 2025 randomized trial, experienced developers using AI tools believed they were about 20 percent faster and were in fact about 19 percent slower on the task. Fluency with the tool produced a confident, wrong self-assessment. Using AI is not the same as understanding AI, and the era pays for the second one.
+
+Engineer 06The AI Maximalist
+
+The opposite failure, and just as sincere. He believed everything should become AI. Every feature, every flow, every form, rip out the deterministic code and let the model do it. He ignored cost, latency, reliability, the boring correctness of plain software, and the fact that users often want a button, not a conversation. He shipped dazzling demos and almost no products. He had internalized the short-run half of Amara's Law as a mandate rather than a warning, and mistook the ceiling of the technology for its current floor.
+
+Engineer 07The Framework Collector
+
+Every week a new one: LangChain, then CrewAI, then AutoGen, then MCP, then GraphRAG, then DSPy, this model, that model. He can compare any two of them fluently. He has built essentially nothing with any of them. Knowledge that never gets integrated into something real is not expertise; it is a very sophisticated form of entertainment. He is the most current person in every meeting and the least compounding, the individual-engineer version of the company that re-platforms every quarter and finishes the year three months into everything and done with nothing.
+
+Notice what Movement B has in common with Movement A. The Craftsman over-invested in stability; the Collector under-invested in it. The Skeptic waited; the Maximalist sprinted. Opposite errors, identical result, because none of them produced the one thing that pays: a body of real, shipped, evaluated work that gets better with use.

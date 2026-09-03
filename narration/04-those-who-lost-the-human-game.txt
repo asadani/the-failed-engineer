@@ -1,0 +1,17 @@
+Those Who Lost the Human Game.
+
+The last three failures are not technical at all. They are about influence, isolation, and the strange way that seniority quietly removes the conditions you need to keep learning.
+
+Engineer 08The Silent Principal
+
+Perhaps the most tragic, because he saw it. He saw management making poor AI bets, saw the technical debt accumulating, saw the wrong horse being backed, and said nothing. Not from cowardice exactly. He didn't want the conflict. It wasn't formally his lane. There was politics, and there was fatigue. But a principal engineer is not measured only by the correctness of his private opinions; he is measured by his influence, by what he changed. When you are senior enough that your silence is itself a signal, silence becomes a technical decision, one you will be accountable for even though you never said a word.
+
+Engineer 09The Lone Expert
+
+He spent fifteen years becoming the smartest engineer in every room. He won. Then AI arrived, and for the first time the smartest-person-in-the-room had no idea, and neither did anyone he could ask, because he had spent those years making sure he was always the one being asked. He suddenly needed mentors and discovered the market had quietly stopped supplying them to people at his level. The strange thing about becoming a principal is that eventually everyone asks you questions, and very few people ask you the kind of question that makes you better. The higher you climb, the fewer people can review your thinking, right at the moment when your thinking most needs review.
+
+Engineer 10The Continuous Learner
+
+The one everyone assumes wins, and he might. But even here the era has a twist. He reads a paper a week, which a decade ago would have kept him comfortably at the frontier. In the AI era the frontier moved monthly, sometimes weekly, and a paper a week quietly fell behind. Learning itself became a full-time skill, with its own velocity requirement, and "I'm a continuous learner" stopped being a finish line and became a treadmill whose speed you do not control. Diligence was necessary and no longer sufficient, which is a deeply unfair thing to discover about a virtue.
+
+Every engineer eventually reaches a level where experience stops teaching and curiosity becomes the only mentor.

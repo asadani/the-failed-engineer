@@ -1,0 +1,7 @@
+The Inversion.
+
+Hold all twelve together and the shared cause is not in any of them. It is in a quiet inversion of what the word "good" modified.
+
+The AI era did not retire the old engineering values. It demoted them, from the thing that wins to table stakes that no longer differentiate. Precision still matters, but speed of learning is now the scarce thing. Architecture still matters, but experimentation is where the value moved. The list below is not "old bad, new good." It is "the left column used to be the bottleneck, and now the right column is." Every one of the twelve was excellent at something in the left column.
+
+That last row deserves its own name, because it is where the most senior people fall hardest. Call it the Product-Blind Engineer, the failure mode that runs through nearly all twelve. He is still optimizing the technology while the market has moved to optimizing the outcome. Customers never bought transformers, RAG, agents, or MCP. They bought time saved, money earned, risk reduced. Theodore Levitt said it in 1960 and it never stopped being true: people don't want a quarter-inch drill, they want a quarter-inch hole. The engineer who fell in love with the drill, with the elegance of the mechanism, optimized the one thing the customer was never buying.

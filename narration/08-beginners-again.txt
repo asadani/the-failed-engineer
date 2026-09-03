@@ -1,0 +1,11 @@
+Beginners Again.
+
+So end not with "learn AI," which is generic and useless, but with the actual selection pressure of the era, stated plainly.
+
+The AI era is not selecting for the smartest engineers. The twelve in this essay were, by any normal measure, among the smartest. It is selecting for engineers willing to become beginners again, willing to set down a hard-won expertise and re-enter the discomfort of not knowing, on purpose, repeatedly. Shunryu Suzuki put the whole thing in nine words long before any of this: "In the beginner's mind there are many possibilities; in the expert's mind there are few." Cognitive entrenchment is just the modern, measured restatement of that line. The expert sees fewer possibilities not because he is dim but because his expertise has, very efficiently, closed the doors that turned out to matter.
+
+Experience is still valuable, but only if it does not become an argument against learning. The market never promised to reward what made you successful yesterday. It only rewards what creates value today. There are no villains here, and no fools. There are twelve good engineers who played yesterday's game beautifully while the rules were quietly rewritten under their feet.
+
+If you recognized yourself in one of the twelve, and most honest senior engineers will recognize themselves in at least two, the useful response is not panic and not a framework binge. It is the Builder's one sentence, said on purpose: I no longer know enough. Then ship something small, measure it, and let the result, not your reputation, decide what you believe next. The tragedy in this essay was never incompetence. It was competence aimed, with conviction, at a target that had already moved.
+
+The era does not reward the engineer who knows the most. It rewards the one still willing to know nothing, on purpose, again.

@@ -1,0 +1,11 @@
+The Twist, and the Mentor Problem.
+
+Here is the uncomfortable part, the one a senior engineer feels in the stomach rather than the head.
+
+None of these twelve people are bad engineers. Every one of them could have had a brilliant decade, in a slightly different market. The market simply started rewarding different traits, and did it faster than a career can turn. Which means the thing we most want to be true is not: your previous success does not guarantee your future relevance. The skills that earned you the title can become, without anyone noticing, an argument against learning the thing that would keep it. That is not a motivational poster. It is the actual mechanism by which good people are left behind.
+
+And it is made worse by something we almost never talk about: even principal engineers need mentors, and the system stops giving them any. The higher your title, the less feedback reaches you. People assume you know. Managers trust you. Engineers follow you. Executives expect answers from you. Meanwhile you are privately trying to understand a technology that did not exist three years ago, with no one positioned to tell you where your thinking is wrong. The loneliness of senior engineering, which used to be a manageable cost, becomes an active competitive disadvantage in a discontinuity, because a discontinuity is exactly when you most need someone to review your assumptions, and seniority is exactly the condition that removes them.
+
+The higher you climb, the fewer people can review your thinking. In a stable field that is a small tax on the very senior. In a discontinuity it is the whole problem, because the assumptions that most need challenging are the ones no one around you is positioned to challenge. On the mentor problem at the top
+
+This is the throughline under all three movements. The Craftsman's entrenchment, the Skeptic's patience, the Lone Expert's isolation, each is a different face of the same thing: a person whose model of "what good looks like" was correct, hardened by years of being correct, and then left unchallenged precisely when it needed to be challenged most.
