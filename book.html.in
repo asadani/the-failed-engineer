@@ -569,6 +569,7 @@
   body > section { order: 0; }
   body > .bf-front { order: 8; }
   body > .bf-about { order: 9; }
+  body > footer { order: 10; }
 }
 /* /BOOK-FORGE:MATTER-CSS */
 
@@ -644,50 +645,6 @@
 </section>
 
 <!-- ===================== OVERTURE ===================== -->
-<section class="section overture" id="overture">
-  <div class="sec-tag">Overture</div>
-  <h2>Three Engineers, One Discontinuity</h2>
-  <p class="lead">Read only this and you have the argument. Everything after it is evidence, and none of it is an accusation.</p>
-
-  <div class="beat">Same starting line</div>
-  <p>Imagine three principal engineers. All respected. All technically exceptional. All capable of leading a hundred-million-dollar product. They start the AI era from the same line: the same access to the same models, the same intelligence, the same work ethic. Five years later, one is a VP of AI, one is still a principal engineer who feels increasingly irrelevant, and one has quietly left the industry. The difference was not intelligence. It was not effort. It was not experience. It was what each of them chose to optimize for after the rules changed.</p>
-
-  <div class="beat">The shape of the failure</div>
-  <p>This is not a story about success. It is a story about brilliant people who made perfectly reasonable decisions that turned out to be the wrong ones. Nobody here is a villain. Nobody was lazy. Nobody was stupid. They simply optimized for a reality that no longer existed. That is the whole shape of it, and it is worth saying at the start, because the lazy version of this story goes looking for the engineer who didn&rsquo;t keep up, and there is no such person in it.</p>
-
-  <div class="beat">Why it is timeless, not topical</div>
-  <p>The AI era did not just introduce a new technology. It changed what <em>good engineering means</em>. For twenty years, the trait that made you a principal engineer was the trait that made you successful &mdash; correctness, depth, judgment, the ability to hold an enormous system in your head. Then the market quietly stopped paying for that as the bottleneck, and many exceptional engineers kept doing exactly the thing that had always worked. That is the trap, and it is older than AI: Clayton Christensen built a whole theory on companies that did <em>everything right</em> &mdash; listened to their best customers, invested in proven technology &mdash; and failed anyway.<sup class="c">1</sup> What follows is that theory applied to people instead of firms.</p>
-
-  <blockquote class="pull">Several brilliant principal engineers made rational decisions based on the world they knew. Then the world changed faster than their optimization function. Nobody is the villain. Nobody was lazy. They were simply playing yesterday&rsquo;s game beautifully while the rules were being rewritten underneath them.
-  <span class="who">The thesis, held at about 80 percent</span></blockquote>
-
-  <p>What follows are twelve of them. Not twelve types of person &mdash; twelve <em>failure modes</em>, any of which can show up in the same career, sometimes in the same week. I have braided them into three movements: those who kept doing what worked, those who misjudged the wave, and those who lost the human game. Then the one who probably makes it. Read each case fairly, because in a different draw, any of them could have been the VP of AI.</p>
-</section>
-
-<!-- ===================== 01 ===================== -->
-<!-- BOOK-FORGE:FRONT-MATTER v1 sha=3b6662d79c51 -->
-<section class="bf-matter bf-front bf-flow">
-  <h2>Copyright, permissions, and how this was made</h2>
-
-  <div class="legal">
-    <p class="work">The Engineers Who Didn&rsquo;t Make It Through AI &mdash; twelve failure modes of senior technical leadership during a discontinuity.</p>
-
-    <p>Copyright &copy; 2026 Anuj Sadani.</p>
-
-    <div class="grant">
-      <p>All rights reserved. Quote it in a review or a piece of criticism with
-          attribution; anything further, please ask.</p>
-    </div>
-
-    <p class="imprint">First edition &middot; 2026</p>
-  </div>
-
-</section>
-<!-- /BOOK-FORGE:FRONT-MATTER -->
-
-<!-- BOOK-FORGE:AFTER-COVER -->
-
-
 <!-- BOOK-AUDIO:BEGIN -->
 <style>.ba{--ba-warm:#FBF8F3;--ba-warm-2:#F4EFE7;--ba-line:#E4DCD0;--ba-dim:#8A8175;
  margin:40px auto;max-width:35em;border:1px solid var(--ba-line);border-radius:10px;
@@ -901,6 +858,51 @@ body.ba-bar-open{padding-bottom:56px}
   select(0, false);
 })();</script>
 <!-- BOOK-AUDIO:END -->
+
+<section class="section overture" id="overture">
+  <div class="sec-tag">Overture</div>
+  <h2>Three Engineers, One Discontinuity</h2>
+  <p class="lead">Read only this and you have the argument. Everything after it is evidence, and none of it is an accusation.</p>
+
+  <div class="beat">Same starting line</div>
+  <p>Imagine three principal engineers. All respected. All technically exceptional. All capable of leading a hundred-million-dollar product. They start the AI era from the same line: the same access to the same models, the same intelligence, the same work ethic. Five years later, one is a VP of AI, one is still a principal engineer who feels increasingly irrelevant, and one has quietly left the industry. The difference was not intelligence. It was not effort. It was not experience. It was what each of them chose to optimize for after the rules changed.</p>
+
+  <div class="beat">The shape of the failure</div>
+  <p>This is not a story about success. It is a story about brilliant people who made perfectly reasonable decisions that turned out to be the wrong ones. Nobody here is a villain. Nobody was lazy. Nobody was stupid. They simply optimized for a reality that no longer existed. That is the whole shape of it, and it is worth saying at the start, because the lazy version of this story goes looking for the engineer who didn&rsquo;t keep up, and there is no such person in it.</p>
+
+  <div class="beat">Why it is timeless, not topical</div>
+  <p>The AI era did not just introduce a new technology. It changed what <em>good engineering means</em>. For twenty years, the trait that made you a principal engineer was the trait that made you successful &mdash; correctness, depth, judgment, the ability to hold an enormous system in your head. Then the market quietly stopped paying for that as the bottleneck, and many exceptional engineers kept doing exactly the thing that had always worked. That is the trap, and it is older than AI: Clayton Christensen built a whole theory on companies that did <em>everything right</em> &mdash; listened to their best customers, invested in proven technology &mdash; and failed anyway.<sup class="c">1</sup> What follows is that theory applied to people instead of firms.</p>
+
+  <blockquote class="pull">Several brilliant principal engineers made rational decisions based on the world they knew. Then the world changed faster than their optimization function. Nobody is the villain. Nobody was lazy. They were simply playing yesterday&rsquo;s game beautifully while the rules were being rewritten underneath them.
+  <span class="who">The thesis, held at about 80 percent</span></blockquote>
+
+  <p>What follows are twelve of them. Not twelve types of person &mdash; twelve <em>failure modes</em>, any of which can show up in the same career, sometimes in the same week. I have braided them into three movements: those who kept doing what worked, those who misjudged the wave, and those who lost the human game. Then the one who probably makes it. Read each case fairly, because in a different draw, any of them could have been the VP of AI.</p>
+</section>
+
+<!-- ===================== 01 ===================== -->
+<!-- BOOK-FORGE:FRONT-MATTER v1 sha=3b6662d79c51 -->
+<section class="bf-matter bf-front bf-flow">
+  <h2>Copyright, permissions, and how this was made</h2>
+
+  <div class="legal">
+    <p class="work">The Engineers Who Didn&rsquo;t Make It Through AI &mdash; twelve failure modes of senior technical leadership during a discontinuity.</p>
+
+    <p>Copyright &copy; 2026 Anuj Sadani.</p>
+
+    <div class="grant">
+      <p>All rights reserved. Quote it in a review or a piece of criticism with
+          attribution; anything further, please ask.</p>
+    </div>
+
+    <p class="imprint">First edition &middot; 2026</p>
+  </div>
+
+</section>
+<!-- /BOOK-FORGE:FRONT-MATTER -->
+
+<!-- BOOK-FORGE:AFTER-COVER -->
+
+
 
 <section class="section" id="start">
   <div class="sec-tag"><span class="num">&sect; 01</span> &middot; The Control</div>
